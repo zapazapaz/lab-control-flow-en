@@ -4,7 +4,7 @@
 
 ## Introduction
 
-`for` loops and `if/else` statements are powerful for controlling the flow of your programs. We will practise them right here!
+`for` loops and `if/else` statements are powerful for controlling the flow of your programs. We will practice them right here!
  
 ## Deliverables
 
